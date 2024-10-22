@@ -1,0 +1,15 @@
+{
+    "id": "playintegrityfork",
+    "enable": true,
+    "verified": false,
+    "license": "GPL-3.0",
+    "donate": "hhttps://www.paypal.me/osm0sis",
+    "update_to": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/refs/heads/main/update.json",
+    "source": "https://github.com/osm0sis/PlayIntegrityFork",
+    "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
+    "categories": [
+        "Zygisk",
+        "Security"
+    ],
+    "readme": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/main/README.md"
+}
