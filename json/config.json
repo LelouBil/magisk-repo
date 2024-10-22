@@ -1,10 +1,10 @@
 {
-  "name": "Googlers Magisk Repo",
-  "website": "https://mmrl.dergoogler.com",
-  "support": "https://github.com/Googlers-Repo/gmr/issues",
-  "donate": "https://github.com/sponsors/DerGoogler",
-  "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
-  "base_url": "https://gr.dergoogler.com/gmr/",
+  "name": "LelouBil Magisk Repo",
+  "website": "https://leloubil.github.io/magisk-repo",
+  "support": "https://github.com/LelouBil/magisk-repo/issues",
+  "donate": "",
+  "submission": "https://github.com/LelouBil/magisk-repo/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
+  "base_url": "https://leloubil.github.io/magisk-repo/",
   "max_num": 6,
   "enable_log": true,
   "log_dir": "log"
