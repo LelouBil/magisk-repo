@@ -1,16 +1,16 @@
-# Googlers Magisk Repo
-- This repository stores modules for [MMRL](https://github.com/DerGoogler/MMRL) and [MRepo](https://github.com/MRepoApp/MRepo.git).
+# LelouBil Magisk Repo
+- This repository stores modules for [MMRL](https://github.com/DerGoogler/MMRL)
 
 ## Add to MMRL or MRepo 
 
 ```
-https://gr.dergoogler.com/gmr/
+https://leloubil.github.io/magisk-repo
 ```
 
 ## Add to MMRL-CLI
 
 ```shell
-mmrl repo add "https://gr.dergoogler.com/gmr/json/modules.json"
+mmrl repo add "https://leloubil.github.io/magisk-repo/json/modules.json"
 ```
 
 ## How to update?
