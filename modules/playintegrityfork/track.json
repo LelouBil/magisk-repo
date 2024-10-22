@@ -1,15 +1,17 @@
 {
-    "id": "playintegrityfork",
-    "enable": true,
-    "verified": false,
-    "license": "GPL-3.0",
-    "donate": "hhttps://www.paypal.me/osm0sis",
-    "update_to": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/refs/heads/main/update.json",
-    "source": "https://github.com/osm0sis/PlayIntegrityFork",
-    "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
-    "categories": [
-        "Zygisk",
-        "Security"
-    ],
-    "readme": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/main/README.md"
+  "id": "playintegrityfork",
+  "enable": true,
+  "verified": false,
+  "update_to": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/refs/heads/main/update.json",
+  "license": "GPL-3.0",
+  "source": "https://github.com/osm0sis/PlayIntegrityFork",
+  "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
+  "donate": "hhttps://www.paypal.me/osm0sis",
+  "categories": [
+    "Zygisk",
+    "Security"
+  ],
+  "readme": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/main/README.md",
+  "last_update": 1728252519.0,
+  "versions": 1
 }

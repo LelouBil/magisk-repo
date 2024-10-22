@@ -1,0 +1,14 @@
+{
+  "id": "playintegrityfork",
+  "timestamp": 1728252519.0,
+  "versions": [
+    {
+      "timestamp": 1728252519.0,
+      "version": "v11",
+      "versionCode": 110000,
+      "zipUrl": "https://leloubil.github.io/magisk-repo/modules/playintegrityfork/v11_110000.zip",
+      "changelog": "https://leloubil.github.io/magisk-repo/modules/playintegrityfork/v11_110000.md",
+      "size": 265123
+    }
+  ]
+}
