@@ -6,14 +6,14 @@
   "submission": "https://github.com/LelouBil/magisk-repo/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1731891631.072147
+    "timestamp": 1731910706.952006
   },
   "modules": [
     {
       "id": "playintegrityfork",
       "name": "Play Integrity Fork",
-      "version": "v11",
-      "versionCode": 110000,
+      "version": "v12",
+      "versionCode": 120000,
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix ctsProfile (SafetyNet) and DEVICE (Play Integrity) verdicts",
       "categories": [
@@ -26,8 +26,8 @@
       "readme": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/main/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1728252519.0,
-      "size": 265123,
+      "timestamp": 1731903266.0,
+      "size": 265326,
       "features": {
         "service": true,
         "post_fs_data": true
@@ -45,6 +45,14 @@
           "zipUrl": "https://leloubil.github.io/magisk-repo/modules/playintegrityfork/v11_110000.zip",
           "changelog": "https://leloubil.github.io/magisk-repo/modules/playintegrityfork/v11_110000.md",
           "size": 265123
+        },
+        {
+          "timestamp": 1731903266.0,
+          "version": "v12",
+          "versionCode": 120000,
+          "zipUrl": "https://leloubil.github.io/magisk-repo/modules/playintegrityfork/v12_120000.zip",
+          "changelog": "https://leloubil.github.io/magisk-repo/modules/playintegrityfork/v12_120000.md",
+          "size": 265326
         }
       ]
     }
