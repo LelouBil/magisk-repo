@@ -6,7 +6,7 @@
   "submission": "https://github.com/LelouBil/magisk-repo/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
   "metadata": {
     "version": 1,
-    "timestamp": 1734200128.770434
+    "timestamp": 1734224760.935813
   },
   "modules": [
     {
@@ -30,7 +30,8 @@
       "size": 265326,
       "features": {
         "service": true,
-        "post_fs_data": true
+        "post_fs_data": true,
+        "action": true
       },
       "track": {
         "type": "ONLINE_JSON",
