@@ -4,9 +4,11 @@
   "support": "https://github.com/LelouBil/magisk-repo/issues",
   "donate": "",
   "submission": "https://github.com/LelouBil/magisk-repo/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
+  "cover": null,
+  "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1735734104.897061
+    "timestamp": 1735755312.393235
   },
   "modules": [
     {
